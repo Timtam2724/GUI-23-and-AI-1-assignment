@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ff0487d5a0bbcf46bbc741eb5c32715
+timeCreated: 1512604627
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - customSkin: {fileID: 11400000, guid: 1ace0eb3ba732d14fb45bd806de49601, type: 2}
+  - player: {instanceID: 0}
+  - mainCam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
